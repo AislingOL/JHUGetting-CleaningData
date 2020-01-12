@@ -9,7 +9,7 @@
 knitr::opts_chunk$set(echo = TRUE)
 
 #' 
-#' #Getting and Cleaning Data Course Project: R Script
+#' # Getting and Cleaning Data Course Project: R Script
 #' 
 #' You should create one R script called run_analysis.R that does the following. 
 #' 1.Merges the training and the test sets to create one data set.
@@ -18,8 +18,8 @@ knitr::opts_chunk$set(echo = TRUE)
 #' 4.Appropriately labels the data set with descriptive variable names. 
 #' 5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 #' 
-#' ###Please Note: These actions have not been performed in numerical order.
-#' The lines of code at which the actions can be seen are highlighted in bold and contain a suffix with the task number:
+#' ### Please Note: These actions have not been performed in numerical order.
+#' The lines of code at which the actions contain a ### prefix, and a suffix with the task number:
 #' 1.Merges the training and the test sets to create one data set - From line 136
 #' 2.Extracts only the measurements on the mean and standard deviation for each measurement - From line 91
 #' 3.Uses descriptive activity names to name the activities in the data set - From line 143 (also 76-83)
